@@ -30,4 +30,4 @@ for(let i = 0; i < 20; i++) {
     glowStick.style.transform = `translate(-50%,-50%) rotate(${degree()}deg)`;
     body.prepend(glowStick);
 }
-
+//console.log(BadalKapoor)
